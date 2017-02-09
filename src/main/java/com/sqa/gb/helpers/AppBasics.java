@@ -1,3 +1,4 @@
+package com.sqa.gb.helpers;
 /**
  * File Name: AppBasics.java<br>
  * Nepton, Jean-francois<br>
@@ -5,7 +6,7 @@
  * Instructor<br>
  * Created: Jan 14, 2017
  */
-package com.sqa.gb.helpers;
+
 
 import java.util.*;
 
